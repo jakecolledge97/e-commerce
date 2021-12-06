@@ -73,7 +73,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -82,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![![Insomnia Screen Shot][product-screenshot]](./Assets/e-commerce-insomnia.png)
 
 This Project was a homework assignment given by Adelaide Uni's Coding Bootcamp. We had to use the information we were taught in the Object-Relational Mapping activities in the course. In this program you can create a database and fill it with seeds that are pre provided; You can use your chosen program (I used Insomnia) to explore the HTTP routes and interact with them using GET, POST, PUT, and DELETE. This project helped me to understand http routes more and creating database information. 
 
