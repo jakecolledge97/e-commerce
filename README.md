@@ -41,7 +41,7 @@
     <a href="https://github.com/jakecolledge97/e-commerce"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jakecolledge97/e-commerce">View Demo</a>
+    <a href="https://drive.google.com/file/d/1RiG-2HF2WRy1mC-_A0-KTlb-0rIss_s9/view">View Demo</a>
     ·
     <a href="https://github.com/jakecolledge97/e-commerce/issues">Report Bug</a>
     ·
@@ -69,7 +69,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -157,22 +156,6 @@ Once installed you will have to set up the database and seeds. In the '.env.EXAM
     ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/jakecolledge97/e-commerce/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
